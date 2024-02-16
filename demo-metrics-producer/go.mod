@@ -1,6 +1,6 @@
 module github.com/ennc0d3-learn/lfs-prometheus/demo-metrics-producer
 
-go 1.21.6
+go 1.21
 
 require github.com/prometheus/client_golang v1.18.0
 
