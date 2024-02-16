@@ -4,4 +4,4 @@ My notes and study materials from the [LFS241 Prometheus courses](https://traini
 
 
 ## 1. Introduction
-The exercises are coded into the [Exercises Prometheus](./exercises-prometheus.ipynb) notebook.
+The exercises are coded into the [Exercises Prometheus](./prometheus-exercises.ipynb) notebook.
